@@ -56,7 +56,7 @@ public class MyDate {
             return true;
         }
         static int round(double d){
-            return (int)(d+0.5);
+            return (int)(d+1.5);
         }
     }
 }
